@@ -15,12 +15,14 @@
     <sprite>sprites\spr_player2</sprite>
     <sprite>sprites\Ducktective_pixel</sprite>
     <sprites name="duck">
+      <sprite>sprites\duck_down</sprite>
       <sprite>sprites\duck_idle_R</sprite>
       <sprite>sprites\duck_idle_L</sprite>
       <sprite>sprites\duck_walk_R</sprite>
       <sprite>sprites\duck_talk_R</sprite>
       <sprite>sprites\duck_talk_L</sprite>
       <sprite>sprites\duck_walk_L</sprite>
+      <sprite>sprites\duck_up</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>

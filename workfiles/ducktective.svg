@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="2035.686"
-     inkscape:cy="137.24977"
+     inkscape:zoom="0.37153812"
+     inkscape:cx="1229.2193"
+     inkscape:cy="1815.1102"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:snap-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:bbox-paths="true"
      inkscape:snap-to-guides="false"
      inkscape:bbox-nodes="true">
@@ -74,6 +74,22 @@
        orientation="0,1"
        position="1811.6076,1216.2237"
        id="guide3689" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1776.3992,2377.9525"
+       id="guide3392" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1784.4737,1827.5379"
+       id="guide3394" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1515.3223,2092.652"
+       id="guide4202" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1449.3802,2328.1595"
+       id="guide4204" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1902,5 +1918,315 @@
        width="455"
        id="rect4072"
        style="color:#000000;fill:none;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       transform="matrix(-0.71877622,0.08143551,0.73366721,0.88060388,1003.7507,-1527.9825)"
+       d="m 428,778.36218 a 143.5,45 0 1 1 -287,0 143.5,45 0 1 1 287,0 z"
+       sodipodi:ry="45"
+       sodipodi:rx="143.5"
+       sodipodi:cy="778.36218"
+       sodipodi:cx="284.5"
+       id="path3358"
+       style="color:#000000;fill:#000000;fill-opacity:0.0745098;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3360"
+       d="m 1433.3608,-1035.3769 c 2.1492,6.2168 4.9934,124.56792 -7.9287,231.97302"
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1437.6638,-1232.0381 c 29.6815,51.6669 40.4688,160.3334 28.0637,196.3375"
+       id="path3366"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1315.2039,-1035.3769 c -2.1492,6.2168 -4.9934,124.56792 7.9287,231.97302"
+       id="path4166"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3368"
+       d="m 1323.7225,-1282.1618 c -4.4976,97.5642 -11.3009,155.5587 -12.75,247.452 26.6621,6.6862 89.3168,4.0372 126.8659,3.8949 5.0097,-107.6043 1.3521,-213.9267 1.9576,-250.9108"
+       style="fill:#468966;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3356"
+       d="m 1440.1127,-1280.8191 c 0.9626,-7.0859 -0.076,-38.3167 -0.076,-38.3167 l 0,0 0,0 c -16.2971,-2.9785 -114.1015,-3.6145 -114.4387,-1.9185 l -2.1916,37.4004"
+       style="fill:#bd3500;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#8e2800;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1473.0695,-1279.6311 -181.9214,-2.089"
+       id="path3378"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path3380"
+       d="m 1424.3086,-803.32725 c -0.1185,-0.52477 13.8684,-35.03448 -3.0932,-36.05547 -9.6738,-0.5823 -3.1514,9.65213 3.0932,36.05547 z"
+       style="fill:#2e3436;stroke:#2e3436;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 1275.9462,-1035.042 c 0,0 -24.1099,29.3171 -12.8063,44.60445 m 11.7548,-44.66905 c 0,0 -8.0042,29.2083 3.8115,41.45325 m -30.4062,-3.8173 c 10.7516,-26.80255 27.3046,-37.87635 26.4935,-38.02815 7.7322,-2.5125 14.4482,2.9376 19.7459,8.9997"
+       style="fill:none;stroke:#2e3436;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3384"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3364"
+       d="m 1318.9644,-1235.1567 c 13.2509,96.2778 -9.5277,167.4638 -47.3096,205.1693"
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <g
+       style="stroke-width:4.57445908;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g3386"
+       transform="matrix(0.81596799,-0.91820232,0.94131523,1.0491303,674.55859,-1223.9553)"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 379.15397,511.60112 c 0.0426,0.01 4.06406,23.98454 -18.91579,26.28646 m 19.4523,-26.2324 c 1.39197,-0.0717 0.41711,20.51382 -22.69947,19.60987 m 16.10551,10.30441 c 11.87284,-20.73119 6.8223,-29.5706 6.8223,-29.5706 -1.92381,-4.9614 -7.9839,-6.13204 -13.77793,-6.33036"
+         style="fill:none;stroke:#2e3436;stroke-width:4.57445908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3388"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1382.0846,-1044.9507 c 19.9835,-27.5962 25.2173,-58.9988 -9.9917,-58.523 -35.209,0.4758 -6.1854,59.4746 -6.1854,59.4746"
+       id="path3396"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:#2e3436;stroke:#2e3436;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1324.2561,-803.32725 c 0.1185,-0.52477 -13.8684,-35.03448 3.0932,-36.05547 9.6738,-0.5823 3.1514,9.65213 -3.0932,36.05547 z"
+       id="path4168"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <rect
+       style="color:#000000;fill:none;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4170"
+       width="455"
+       height="676"
+       x="1140.8431"
+       y="-1407.8107"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1322.038,-1249.0504 -4.5419,71.8298 -10.7661,-72.3345 z"
+       id="path4206"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\up\up_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:0.0745098;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4208"
+       sodipodi:cx="284.5"
+       sodipodi:cy="778.36218"
+       sodipodi:rx="143.5"
+       sodipodi:ry="45"
+       d="m 428,778.36218 a 143.5,45 0 1 1 -287,0 143.5,45 0 1 1 287,0 z"
+       transform="matrix(0.71877622,0.08143551,-0.73366721,0.88060388,2357.1812,-1527.9825)"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1927.5711,-1035.3769 c -2.1492,6.2168 -4.9934,124.56792 7.9287,231.97302"
+       id="path4210"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4212"
+       d="m 1922.7923,-1238.6993 c -29.6815,51.6669 -38.5656,162.7124 -26.1605,198.7165"
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4214"
+       d="m 2045.728,-1035.3769 c 2.1492,6.2168 4.9934,124.56792 -7.9287,231.97302"
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2035.9156,-1245.0484 c 52.5173,81.7737 59.4142,143.5668 48.1333,207.9402"
+       id="path4226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:#468966;fill-opacity:1;stroke:none"
+       d="m 2037.2094,-1282.1618 c 4.4976,97.5642 11.3009,155.5587 12.75,247.452 -26.6621,6.6862 -89.3168,4.0372 -126.8659,3.8949 -5.0097,-107.6043 -1.3521,-213.9267 -1.9576,-250.9108"
+       id="path4216"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:#bd3500;fill-opacity:1;stroke:none"
+       d="m 1920.8192,-1280.8191 c -0.9626,-7.0859 0.076,-38.3167 0.076,-38.3167 l 0,0 0,0 c 16.2971,-2.9785 114.1015,-3.6145 114.4387,-1.9185 l 2.1916,37.4004"
+       id="path4218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4220"
+       d="m 1887.8624,-1279.6311 181.9214,-2.089"
+       style="fill:none;stroke:#8e2800;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       style="fill:#2e3436;stroke:#2e3436;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1931.6921,-825.94856 c 0.1286,0.52477 -15.0489,35.03448 3.3565,36.05547 10.4972,0.5823 3.4196,-9.65213 -3.3565,-36.05547 z"
+       id="path4222"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path4224"
+       style="fill:none;stroke:#2e3436;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 2085.1828,-1035.5994 c 0,0 24.1099,29.3171 12.8063,44.60442 m -11.7548,-44.66902 c 0,0 8.0042,29.2083 -3.8115,41.45322 m 30.4062,-3.8173 c -10.7516,-26.80252 -27.3046,-37.87632 -26.4935,-38.02812 -7.7322,-2.5125 -14.4482,2.9376 -19.7459,8.9997"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <g
+       transform="matrix(-0.81596799,-0.91820232,-0.94131523,1.0491303,2686.3733,-1224.9069)"
+       id="g4228"
+       style="stroke-width:4.57445908;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path4230"
+         style="fill:none;stroke:#2e3436;stroke-width:4.57445908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 379.15397,511.60112 c 0.0426,0.01 4.06406,23.98454 -18.91579,26.28646 m 19.4523,-26.2324 c 1.39197,-0.0717 0.41711,20.51382 -22.69947,19.60987 m 16.10551,10.30441 c 11.87284,-20.73119 6.8223,-29.5706 6.8223,-29.5706 -1.92381,-4.9614 -7.9839,-6.13204 -13.77793,-6.33036"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path4234"
+       d="m 2040.2611,-825.94856 c -0.1285,0.52477 15.0489,35.03448 -3.3565,36.05547 -10.4972,0.5823 -3.4196,-9.65213 3.3565,-36.05547 z"
+       style="fill:#2e3436;stroke:#2e3436;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <rect
+       inkscape:export-ydpi="19.78022"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       y="-1407.8107"
+       x="-2220.0889"
+       height="676"
+       width="455"
+       id="rect4236"
+       style="color:#000000;fill:none;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="scale(-1,1)" />
+    <g
+       transform="translate(1726.6334,-1608.5568)"
+       id="g4240"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022">
+      <path
+         style="fill:#541c00;fill-opacity:1;stroke:none"
+         d="m 231.43846,353.81571 0.30532,13.65888 23.71074,-0.66024 -1.32771,-13.57365 z"
+         id="path4242"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#e18700;fill-opacity:1;stroke:none"
+         d="m 231.51468,366.93562 c 0,0 32.93217,-2.80584 45.43019,-2.56138 4.10962,0.0804 0.13177,8.01501 -3.16209,10.95566 -7.96106,7.10737 -38.27099,2.04957 -38.27099,2.04957 -2.22639,-2.58727 -2.97749,-6.64982 -3.99711,-10.44385 z"
+         id="path4244"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscc"
+         inkscape:transform-center-x="-7.2651197"
+         inkscape:transform-center-y="1.6371522" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccscc"
+       inkscape:connector-curvature="0"
+       id="path4246"
+       d="m 1952.9952,-1259.8285 c 0.8206,0.2231 55.9488,-7.3516 57.1579,-0.8855 5.246,0.7032 7.7701,14.7317 4.0069,17.364 -14.609,10.2196 -60.7899,0.2733 -60.7899,0.2733 -6.5856,0 -5.1464,-15.759 -0.3749,-16.7518 z"
+       style="fill:#ffb03b;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4248"
+       d="m 1986.3488,-1206.1961 9.3426,8.2852 -7.0627,8.2841 8.5006,30.8683 -11.6636,87.4475 -8.5926,-85.9965 6.3182,-31.3582 -4.2232,-10.085 z"
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       inkscape:export-filename="C:\Users\kednar\git\MAThesis\coopgame.gmx\sprites\down\down_001.png"
+       inkscape:export-xdpi="19.78022"
+       inkscape:export-ydpi="19.78022" />
   </g>
 </svg>
