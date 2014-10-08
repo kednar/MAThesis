@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37153812"
-     inkscape:cx="1229.2193"
-     inkscape:cy="1815.1102"
+     inkscape:zoom="0.74307624"
+     inkscape:cx="2048.2851"
+     inkscape:cy="-125.25253"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -99,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -802,7 +802,7 @@
     </g>
     <path
        style="fill:#2e3436;fill-opacity:1;stroke:none"
-       d="m 2775.142,392.2242 9.8386,8.28519 -6.5668,8.28411 10.3485,30.86828 -6.4288,87.44756 -13.7406,-85.99653 4.441,-31.35824 -4.8269,-10.08497 z"
+       d="m 2772.9756,392.2242 16.2152,8.28519 -10.8229,8.28411 17.0556,30.86828 -10.5955,87.44756 -22.6461,-85.99653 7.3193,-31.35824 -7.9554,-10.08497 z"
        id="path3219"
        inkscape:connector-curvature="0" />
     <rect
@@ -1706,7 +1706,7 @@
        sodipodi:nodetypes="cccc" />
     <g
        id="g3627"
-       transform="translate(1086.1883,-742.28349)">
+       transform="translate(1086.8612,-729.4988)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
