@@ -13,6 +13,15 @@
     <sprite>sprites\spr_pistol</sprite>
     <sprite>sprites\spr_collision</sprite>
     <sprite>sprites\spr_player2</sprite>
+    <sprite>sprites\Ducktective_pixel</sprite>
+    <sprites name="duck">
+      <sprite>sprites\duck_idle_R</sprite>
+      <sprite>sprites\duck_idle_L</sprite>
+      <sprite>sprites\duck_walk_R</sprite>
+      <sprite>sprites\duck_talk_R</sprite>
+      <sprite>sprites\duck_talk_L</sprite>
+      <sprite>sprites\duck_walk_L</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,11 +30,13 @@
       <script>scripts\scr_player2_control.gml</script>
       <script>scripts\scr_distance2.gml</script>
       <script>scripts\scr_dialog2.gml</script>
+      <script>scripts\p2_animation.gml</script>
     </scripts>
     <scripts name="Player 1">
       <script>scripts\scr_player1_control.gml</script>
       <script>scripts\scr_dialog1.gml</script>
       <script>scripts\scr_distance1.gml</script>
+      <script>scripts\p1_animation.gml</script>
     </scripts>
     <script>scripts\scr_HELP.gml</script>
     <script>scripts\scr_debug_info.gml</script>
