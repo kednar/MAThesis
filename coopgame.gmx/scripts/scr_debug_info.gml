@@ -1,2 +1,1 @@
-globalvar closest_object
-globalvar distance_closest_object
+
