@@ -1,5 +1,5 @@
 
-// ----------  PLAYER 1: Four directional movement animation -----------
+// ----------  PLAYER 1: Four directional movement animation ------------
 if (keyboard_check(ord('A')))
 {
     sprite_index = duck_walk_L;
