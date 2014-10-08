@@ -39,6 +39,7 @@
       <script>scripts\scr_dialog1.gml</script>
       <script>scripts\scr_distance1.gml</script>
       <script>scripts\p1_animation.gml</script>
+      <script>scripts\depth_control.gml</script>
     </scripts>
     <script>scripts\scr_HELP.gml</script>
     <script>scripts\scr_debug_info.gml</script>
