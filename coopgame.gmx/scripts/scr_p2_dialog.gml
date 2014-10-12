@@ -10,5 +10,4 @@ if global.p2_is_talking == 0
 if global.p2_is_talking == 1
     {
     draw_sprite(duck_talk_gui_L,image_index,550,700);
-    script_execute(scr_p2_speak);
     }

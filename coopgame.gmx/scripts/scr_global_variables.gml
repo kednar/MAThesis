@@ -18,11 +18,13 @@ global.p1_dialog4 = 0;
 global.p1_is_talking = 0;
 
 // define dialog variables for player 2, assign starting value
+globalvar p2_dialog;
 globalvar p2_dialog1;
 globalvar p2_dialog2;
 globalvar p2_dialog3;
 globalvar p2_dialog4;
 globalvar p2_is_talking;
+global.p2_dialog = ""
 global.p2_dialog1 = 0;
 global.p2_dialog2 = 0;
 global.p2_dialog3 = 0;
