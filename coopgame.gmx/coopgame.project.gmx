@@ -46,10 +46,13 @@
       <script>scripts\scr_depth_control.gml</script>
     </scripts>
     <script>scripts\scr_HELP.gml</script>
-    <script>scripts\scr_debug_info.gml</script>
-    <script>scripts\scr_dialogue_display.gml</script>
     <script>scripts\scr_dialogue_timer.gml</script>
     <script>scripts\scr_global_variables.gml</script>
+    <scripts name="typewriter">
+      <script>scripts\scr_typewriter_create.gml</script>
+      <script>scripts\scr_typewriter_draw.gml</script>
+      <script>scripts\scr_typewriter_step.gml</script>
+    </scripts>
   </scripts>
   <objects name="objects">
     <object>objects\obj_wall</object>
@@ -59,6 +62,7 @@
     <object>objects\obj_key</object>
     <object>objects\obj_pistol</object>
     <object>objects\obj_GUI</object>
+    <object>objects\obj_typewriter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_room</room>

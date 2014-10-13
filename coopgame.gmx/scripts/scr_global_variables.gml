@@ -6,6 +6,8 @@
 */
 
 // define dialog variables for player 1, assign starting value
+
+
 globalvar p1_dialog1;
 globalvar p1_dialog2;
 globalvar p1_dialog3;

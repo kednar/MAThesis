@@ -20,6 +20,8 @@ if (keyboard_check(vk_down) && place_free(obj_player2.x, obj_player2.y + 5))
 obj_player2.y += 5;
 }
 
+/*  NOW DONE THROUGH PLAYER 2 OBJECT
+
 // Action Buttons / Dialog Options
 if (keyboard_check_released(ord('U')) && global.p2_is_talking == 0)
     {
@@ -48,3 +50,4 @@ if (keyboard_check_released(ord('P')) && global.p2_is_talking == 0)
     global.p2_dialog = global.p2_dialog4;
     script_execute(scr_p2_speak,4);
     }
+*/
