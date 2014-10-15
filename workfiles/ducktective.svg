@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66377873"
-     inkscape:cx="1606.2883"
-     inkscape:cy="-2021.2398"
+     inkscape:cx="2145.7446"
+     inkscape:cy="-807.9481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showguides="true"
@@ -2208,7 +2208,7 @@
     <rect
        inkscape:export-ydpi="19.780001"
        inkscape:export-xdpi="19.780001"
-       inkscape:export-filename="C:\Users\kednar\git\MAThesis\workfiles\sprites\kiwi_walk\kiwi_walk_003.png"
+       inkscape:export-filename="/media/kednar/Win/Users/kednar/git/MAThesis/workfiles/sprites/kiwi_walk/kiwi_walk_002.png"
        y="1701.8361"
        x="1831.5088"
        height="676"
@@ -2305,6 +2305,16 @@
        width="455"
        id="rect6202"
        style="color:#000000;fill:none;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:none;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4882"
+       width="455"
+       height="676"
+       x="2820.0837"
+       y="1701.8361"
+       inkscape:export-filename="/media/kednar/Win/Users/kednar/git/MAThesis/workfiles/sprites/kiwi_walk/kiwi_walk_004.png"
+       inkscape:export-xdpi="19.780001"
+       inkscape:export-ydpi="19.780001" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3228,7 +3238,7 @@
        style="fill:#ff7f2a;stroke:none" />
     <g
        id="g5746"
-       transform="matrix(-0.77026595,0,-0.13238532,1.1620768,2561.1821,1402.0602)">
+       transform="matrix(-0.77026595,0,-0.13238532,1.2000511,2561.1821,1390.4083)">
       <path
          sodipodi:nodetypes="czczcc"
          inkscape:connector-curvature="0"
@@ -3240,7 +3250,7 @@
          inkscape:connector-curvature="0"
          id="path5750"
          d="m 502.38828,583.00645 c -0.0526,10.82058 -11.03071,12.33063 56.53645,11.62162 74.30478,-0.77971 82.49673,4.60512 79.82467,-11.44536"
-         style="fill:none;stroke:#502d16;stroke-width:4.22787523;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#502d16;stroke-width:4.16044426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
        id="g5752"
@@ -3449,7 +3459,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <g
-       transform="matrix(-0.77026595,0,-0.13238532,1.1620768,3549.7572,1402.0602)"
+       transform="matrix(-0.77026595,0,-0.13238532,1.2000511,3549.7572,1390.4083)"
        id="g5962">
       <path
          style="fill:#803300;stroke:none"
@@ -3458,7 +3468,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czczcc" />
       <path
-         style="fill:none;stroke:#502d16;stroke-width:4.22787523;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#502d16;stroke-width:4.16044426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 502.38828,583.00645 c -0.0526,10.82058 -11.03071,12.33063 56.53645,11.62162 74.30478,-0.77971 82.49673,4.60512 79.82467,-11.44536"
          id="path5966"
          inkscape:connector-curvature="0"
