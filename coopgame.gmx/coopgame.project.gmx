@@ -34,7 +34,12 @@
       <sprite>sprites\duck_head_gui_R</sprite>
     </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\tile_A</background>
+    <background>background\tile_B</background>
+    <background>background\tile_C</background>
+    <background>background\tile_D</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="Player 2">
