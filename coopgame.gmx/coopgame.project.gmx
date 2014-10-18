@@ -33,12 +33,14 @@
       <sprite>sprites\duck_talk_gui_R</sprite>
       <sprite>sprites\duck_head_gui_R</sprite>
     </sprites>
+    <sprite>sprites\sprite22</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\tile_A</background>
     <background>background\tile_B</background>
     <background>background\tile_C</background>
     <background>background\tile_D</background>
+    <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -66,14 +68,14 @@
     </scripts>
   </scripts>
   <objects name="objects">
-    <object>objects\obj_wall</object>
     <object>objects\obj_player1</object>
     <object>objects\obj_player2</object>
     <object>objects\obj_table</object>
     <object>objects\obj_key</object>
     <object>objects\obj_pistol</object>
-    <object>objects\obj_GUI</object>
     <object>objects\obj_typewriter</object>
+    <object>objects\obj_GUI</object>
+    <object>objects\wall_collider</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_room</room>
