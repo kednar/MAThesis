@@ -37,16 +37,23 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
+    <scripts name="GUI">
+      <script>scripts\scr_p1_dialog.gml</script>
+      <script>scripts\scr_p2_dialog.gml</script>
+      <scripts name="typewriter">
+        <script>scripts\scr_typewriter_create.gml</script>
+        <script>scripts\scr_typewriter_step.gml</script>
+        <script>scripts\scr_typewriter_draw.gml</script>
+      </scripts>
+    </scripts>
     <scripts name="Player 2">
       <script>scripts\scr_p2_control.gml</script>
       <script>scripts\scr_p2_distance.gml</script>
-      <script>scripts\scr_p2_dialog.gml</script>
       <script>scripts\scr_p2_animation.gml</script>
       <script>scripts\scr_p2_speak.gml</script>
     </scripts>
     <scripts name="Player 1">
       <script>scripts\scr_p1_control.gml</script>
-      <script>scripts\scr_p1_dialog.gml</script>
       <script>scripts\scr_p1_distance.gml</script>
       <script>scripts\scr_p1_animation.gml</script>
       <script>scripts\scr_depth_control.gml</script>
@@ -54,11 +61,6 @@
     <script>scripts\scr_HELP.gml</script>
     <script>scripts\scr_dialogue_timer.gml</script>
     <script>scripts\scr_global_variables.gml</script>
-    <scripts name="typewriter">
-      <script>scripts\scr_typewriter_create.gml</script>
-      <script>scripts\scr_typewriter_draw.gml</script>
-      <script>scripts\scr_typewriter_step.gml</script>
-    </scripts>
   </scripts>
   <objects name="objects">
     <object>objects\obj_wall</object>
@@ -68,7 +70,6 @@
     <object>objects\obj_key</object>
     <object>objects\obj_pistol</object>
     <object>objects\obj_GUI</object>
-    <object>objects\obj_typewriter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_room</room>

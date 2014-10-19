@@ -1,6 +1,6 @@
 //write your messages in an array, starting at 0, like so
 
-message[0]="Hello there! Welcome to the world of Pokemon!"
+message[0]="Hello there! Welcome to#the world of Pokemon!"
 
 message[1]="My name is Oak! People call me the Pokemon Prof!"
 
