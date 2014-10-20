@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg3969"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="colorfulsprites.svg">
+  <defs
+     id="defs3971" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.3133333"
+     inkscape:cx="299.11421"
+     inkscape:cy="224.90341"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-grids="false"
+     inkscape:object-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4546"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="50px"
+       spacingy="50px" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="245,544.98715"
+       id="guide4559" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3974">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36215)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#713247;fill-opacity:1;stroke:#ad4d6f;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4499"
+       width="790"
+       height="590"
+       x="5"
+       y="457.36215"
+       inkscape:export-filename="C:\Users\kednar\bg_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="504.86215"
+       x="52.5"
+       height="45"
+       width="145"
+       id="rect4578"
+       style="fill:#994560;fill-opacity:1;stroke:#9b4563;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#994560;fill-opacity:1;stroke:#9b4563;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4576"
+       width="145"
+       height="145.00003"
+       x="52.5"
+       y="604.86212"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 100,507.375 0,-5 -50,0 0,50 50,0 0,-5 -45,0 0,-40 z"
+       id="rect4544"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 150,507.36215 0,-5 -50,0 0,5 z m -50,40 0,5 50,0 0,-5 z"
+       id="rect4548"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4568"
+       d="m 150,507.36215 0,-5 50,0 0,50 -50,0 0,-5 45,0 0,-40 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4570"
+       d="m 100,607.36215 0,-5 -50,0 0,150.01285 50,0 0,-5 -45,0 0,-140.01285 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4572"
+       d="m 150,607.3493 0,-5 -50,0 0,5 z m -50,140.01285 0,5 50,0 0,-5 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ad4d6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 150,607.3493 0,-5 50,0 0,150.01285 -50,0 0,-5 45,0 0,-140.01285 z"
+       id="path4574"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\kednar\tileset_purp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="ch">
+    <path
+       transform="matrix(0,0.48771519,-0.48771519,0,332.09961,363.84265)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path4585"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="0.179346"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_fire.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       id="path4581"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.39864676,-0.39864676,0,294.24677,374.9762)"
+       inkscape:transform-center-x="0.17810325"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_fire.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path4587"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.24892312,-0.24892312,0,249.26361,393.67588)"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_fire.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0,0.17786949,-0.17786949,0,219.19119,402.58736)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path4583"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="-0.1253755"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_fire.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-y="0.0297725" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect4591"
+       width="50"
+       height="50"
+       x="100"
+       y="400"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\bullet_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_1.png"
+       inkscape:transform-center-x="0.1929535"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path3015"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.52472069,-0.52472069,0,399.81335,359.21695)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_1.png"
+       inkscape:transform-center-x="0.19294475"
+       transform="matrix(0,0.43186354,-0.43186354,0,362.34907,370.82409)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3017"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_1.png"
+       y="400"
+       x="150"
+       height="50"
+       width="50"
+       id="rect3023"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_1.png"
+       inkscape:transform-center-y="-0.01577334"
+       inkscape:transform-center-x="-17.370171"
+       transform="matrix(0,0.13186355,-0.13186355,0,249.80115,408.30832)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3019"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_1.png"
+       inkscape:transform-center-x="-17.436591"
+       sodipodi:type="arc"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       id="path3021"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.09422388,-0.09422388,0,233.87071,413.02905)" />
+    <path
+       transform="matrix(0,0.52472069,-0.52472069,0,454.19216,359.21695)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3025"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="0.1929535"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       id="path3027"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.43186354,-0.43186354,0,415.4855,370.82409)"
+       inkscape:transform-center-x="0.19294475"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3029"
+       width="50"
+       height="50"
+       x="200"
+       y="400"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path3031"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.13186355,-0.13186355,0,302.05369,408.30832)"
+       inkscape:transform-center-x="-17.370171"
+       inkscape:transform-center-y="-0.01577334"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0,0.09422388,-0.09422388,0,286.37579,413.02905)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3033"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="-17.436591"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_3.png"
+       inkscape:transform-center-x="0.1929535"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path3035"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.52472069,-0.52472069,0,504.94978,359.21696)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_3.png"
+       inkscape:transform-center-x="0.19294475"
+       transform="matrix(0,0.43186354,-0.43186354,0,465.10669,370.8241)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3037"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_3.png"
+       y="400"
+       x="250"
+       height="50"
+       width="50"
+       id="rect3039"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_3.png"
+       inkscape:transform-center-y="-0.01577334"
+       inkscape:transform-center-x="-17.370171"
+       transform="matrix(0,0.13186355,-0.13186355,0,352.30623,408.30833)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3041"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_3.png"
+       inkscape:transform-center-x="-17.436591"
+       sodipodi:type="arc"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       id="path3043"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.09422388,-0.09422388,0,336.37579,413.02906)" />
+    <path
+       transform="matrix(0,0.52472069,-0.52472069,0,554.69724,359.21696)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3045"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="0.1929535"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       id="path3047"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.43186354,-0.43186354,0,513.97026,370.8241)"
+       inkscape:transform-center-x="0.19294475"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3049"
+       width="50"
+       height="50"
+       x="300"
+       y="400"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path3051"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.13186355,-0.13186355,0,402.30623,408.30833)"
+       inkscape:transform-center-x="-17.370171"
+       inkscape:transform-center-y="-0.01577334"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0,0.09422388,-0.09422388,0,385.99698,413.02906)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3053"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="-17.436591"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_5.png"
+       inkscape:transform-center-x="0.1929535"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       id="path3055"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.52472069,-0.52472069,0,598.34912,359.21695)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_5.png"
+       inkscape:transform-center-x="0.19294475"
+       transform="matrix(0,0.43186354,-0.43186354,0,558.34905,370.82409)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3057"
+       style="fill:#45bbdf;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_5.png"
+       inkscape:transform-center-y="-0.01577334"
+       inkscape:transform-center-x="-17.370171"
+       transform="matrix(0,0.13186355,-0.13186355,0,450.05952,408.30832)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3059"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_5.png"
+       inkscape:transform-center-x="-17.436591"
+       sodipodi:type="arc"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       id="path3061"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.09422388,-0.09422388,0,433.87069,413.02905)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\player_walk_5.png"
+       y="400"
+       x="350"
+       height="50"
+       width="50"
+       id="rect3063"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\bullet_1.png"
+       transform="matrix(0,0.20832614,-0.22467135,0,220.20374,398.75051)"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       sodipodi:ry="25"
+       sodipodi:rx="25"
+       sodipodi:cy="425"
+       sodipodi:cx="125"
+       id="path3040"
+       style="fill:#000000;fill-opacity:0.18604653;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:transform-center-y="0.02492125"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\bullet_1.png"
+       inkscape:transform-center-x="-0.11316721"
+       sodipodi:type="arc"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       id="path3042"
+       sodipodi:cx="125"
+       sodipodi:cy="425"
+       sodipodi:rx="25"
+       sodipodi:ry="25"
+       d="m 150,425 a 25,25 0 1 1 -50,0 25,25 0 1 1 50,0 z"
+       transform="matrix(0,0.14886068,-0.16054024,0,193.06118,406.20862)" />
+    <path
+       id="path3823"
+       d="m 163.82509,364.00577 22.29299,0 0,22.18165 -22.29299,0 z"
+       style="fill:#000000;fill-opacity:0.17299577;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#e5ae95;fill-opacity:1;stroke:#d67e57;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 167.05871,367.22325 15.82575,0 0,15.74669 -15.82575,0 z"
+       id="rect3046"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3825"
+       width="50"
+       height="50"
+       x="149.97159"
+       y="350.09659"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3857"
+       d="m 209.87824,360.17008 22.29299,0 -22.29299,22.18165 z"
+       style="fill:#000000;fill-opacity:0.17299577;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       id="path3829"
+       d="m 211.37824,361.67008 14.25873,0 -14.25873,14.18625 z"
+       style="fill:#e5ae95;fill-opacity:1;stroke:#d67e57;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       y="350.09659"
+       x="199.97159"
+       height="50"
+       width="50"
+       id="rect3831"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.17299577;stroke:none"
+       d="m 238.95219,367.44641 0,22.18165 -22.29299,0 z"
+       id="path3827"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#e5ae95;fill-opacity:1;stroke:#d67e57;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 237.45219,373.68723 0,14.44083 -14.51439,0 z"
+       id="path3833"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3835"
+       sodipodi:cx="224.97159"
+       sodipodi:cy="375.09659"
+       sodipodi:rx="12.041002"
+       sodipodi:ry="12.041002"
+       d="m 237.01259,375.09659 a 12.041002,12.041002 0 1 1 -24.082,0 12.041002,12.041002 0 1 1 24.082,0 z" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.17299577;stroke:none"
+       d="m 255.19572,355.41264 22.29299,0 -22.29299,22.18165 z"
+       id="path3859" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path3861"
+       d="m 294.87527,372.72618 0,22.18165 -22.29299,0 z"
+       style="fill:#000000;fill-opacity:0.17299577;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:#e5ae95;fill-opacity:1;stroke:#d67e57;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.35864979;stroke-dasharray:none"
+       d="m 256.69572,356.91264 14.25873,0 -14.25873,14.18625 z"
+       id="path3849"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3851"
+       width="50"
+       height="50"
+       x="249.97159"
+       y="350.09659"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       id="path3853"
+       d="m 293.37527,378.967 0,14.44083 -14.51439,0 z"
+       style="fill:#e5ae95;fill-opacity:1;stroke:#d67e57;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.35864979;stroke-dasharray:none" />
+    <path
+       d="m 237.01259,375.09659 a 12.041002,12.041002 0 1 1 -24.082,0 12.041002,12.041002 0 1 1 24.082,0 z"
+       sodipodi:ry="12.041002"
+       sodipodi:rx="12.041002"
+       sodipodi:cy="375.09659"
+       sodipodi:cx="224.97159"
+       id="path3855"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.24869587,0,0,0.24869587,219.02208,281.81162)" />
+    <path
+       id="path3863"
+       d="m 302.94089,353.05044 22.29299,0 -22.29299,22.18165 z"
+       style="fill:#000000;fill-opacity:0.02953587;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="11.146495"
+       inkscape:transform-center-y="-11.090825" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       id="path3867"
+       d="m 304.44089,354.55044 14.25873,0 -14.25873,14.18625 z"
+       style="fill:#e5ae95;fill-opacity:0.30801685000000001;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.07594934000000000;stroke-dasharray:none"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="13.663625"
+       inkscape:transform-center-y="-13.588525" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       y="350.09659"
+       x="299.97159"
+       height="50"
+       width="50"
+       id="rect3869"
+       style="fill:none;stroke:none" />
+    <path
+       inkscape:transform-center-y="11.090825"
+       inkscape:transform-center-x="-11.146495"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.02953587;stroke:none"
+       d="m 347.52687,397.41374 -22.29299,0 22.29299,-22.18165 z"
+       id="path3875" />
+    <path
+       inkscape:transform-center-y="13.588525"
+       inkscape:transform-center-x="-13.663625"
+       sodipodi:nodetypes="cccc"
+       style="fill:#e5ae95;fill-opacity:0.30801685000000001;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.07594934000000000;stroke-dasharray:none"
+       d="m 346.02687,395.91374 -14.25873,0 14.25873,-14.18625 z"
+       id="path3877"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\kednar\GameMakerProjects\TopDownShooter.gmx\sprites\images\crate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="color"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="fill:#f9e4ad;fill-opacity:1;stroke:none"
+       id="path3977"
+       sodipodi:cx="342.18918"
+       sodipodi:cy="504.60696"
+       sodipodi:rx="26.516504"
+       sodipodi:ry="26.516504"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       transform="translate(-306.70702,186.79081)" />
+    <path
+       transform="translate(-244.58264,186.79081)"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       sodipodi:ry="26.516504"
+       sodipodi:rx="26.516504"
+       sodipodi:cy="504.60696"
+       sodipodi:cx="342.18918"
+       id="path4487"
+       style="fill:#e6b098;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#cc4452;fill-opacity:1;stroke:none"
+       id="path4489"
+       sodipodi:cx="342.18918"
+       sodipodi:cy="504.60696"
+       sodipodi:rx="26.516504"
+       sodipodi:ry="26.516504"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       transform="translate(-183.97349,186.79081)" />
+    <path
+       transform="translate(-122.85926,186.79081)"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       sodipodi:ry="26.516504"
+       sodipodi:rx="26.516504"
+       sodipodi:cy="504.60696"
+       sodipodi:cx="342.18918"
+       id="path4491"
+       style="fill:#723147;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#31152b;fill-opacity:1;stroke:none"
+       id="path4493"
+       sodipodi:cx="342.18918"
+       sodipodi:cy="504.60696"
+       sodipodi:rx="26.516504"
+       sodipodi:ry="26.516504"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       transform="translate(-59.724731,186.79081)" />
+    <path
+       transform="translate(-183.97349,251.07652)"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       sodipodi:ry="26.516504"
+       sodipodi:rx="26.516504"
+       sodipodi:cy="504.60696"
+       sodipodi:cx="342.18918"
+       id="path4495"
+       style="fill:#247299;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#64e7e9;fill-opacity:1;stroke:none"
+       id="path4497"
+       sodipodi:cx="342.18918"
+       sodipodi:cy="504.60696"
+       sodipodi:rx="26.516504"
+       sodipodi:ry="26.516504"
+       d="m 368.70568,504.60696 a 26.516504,26.516504 0 1 1 -53.03301,0 26.516504,26.516504 0 1 1 53.03301,0 z"
+       transform="translate(-183.97349,313.93366)" />
+  </g>
+</svg>
