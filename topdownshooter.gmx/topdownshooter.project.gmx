@@ -12,7 +12,7 @@
     <sprite>sprites\spr_bullet_exp</sprite>
     <sprite>sprites\spr_crate_exp</sprite>
     <sprite>sprites\spr_crate</sprite>
-    <sprite>sprites\sprite6</sprite>
+    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
