@@ -25,10 +25,14 @@
     <script>scripts\MouseShootAlarm.gml</script>
     <script>scripts\CameraControl.gml</script>
     <script>scripts\CameraShake.gml</script>
+    <scripts name="room_test_ai">
+      <script>scripts\scr_CameraShake_TestAI.gml</script>
+    </scripts>
   </scripts>
   <objects name="objects">
     <objects name="room_test_ai">
-      <object>objects\obj_crate_AI</object>
+      <object>objects\obj_Crate_TestAI</object>
+      <object>objects\obj_Player_TestAI</object>
     </objects>
     <objects name="room_main">
       <object>objects\obj_crate</object>
