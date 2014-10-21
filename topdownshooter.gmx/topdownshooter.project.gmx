@@ -13,6 +13,8 @@
     <sprite>sprites\spr_crate_exp</sprite>
     <sprite>sprites\spr_crate</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_blob_walk</sprite>
+    <sprite>sprites\spr_blob_fire</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
