@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Presse Delete to switch room</string>
+            <string>Presse T to switch, R to restart room</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -38,7 +38,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="10" enumb="46">
+    <event eventtype="10" enumb="84">
       <action>
         <libid>1</libid>
         <id>226</id>
@@ -146,6 +146,22 @@
         <useapplyto>0</useapplyto>
         <exetype>0</exetype>
         <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="10" enumb="82">
+      <action>
+        <libid>1</libid>
+        <id>223</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_current_room</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
