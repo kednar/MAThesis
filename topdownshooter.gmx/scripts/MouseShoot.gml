@@ -1,6 +1,6 @@
 sprite_index = spr_player_fire; //Change player sprite to shooting
 image_speed = 0.5; //speed of player shooting animation
-alarm[0] = 10; //Calls the alarm to reset the animation
+alarm[0] = 1; //Calls the alarm to reset the animation
 
 //Spawn the bullet outside the player
 ldx = lengthdir_x(14, -mouse_dire);

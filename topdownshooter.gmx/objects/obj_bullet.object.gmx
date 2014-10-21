@@ -109,15 +109,15 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_Crate_TestAI">
+    <event eventtype="4" ename="obj_wall_150x50">
       <action>
         <libid>1</libid>
-        <id>605</id>
-        <kind>0</kind>
+        <id>603</id>
+        <kind>7</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>0</exetype>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
@@ -126,10 +126,15 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>Without this, the bullet bounces off the crates in rm_test_AI, which can also be funny/useful</string>
+            <string>///Replace bullet instance
+instance_change(obj_bullet_exp,0);
+alarm[0] = 1;
+</string>
           </argument>
         </arguments>
       </action>
+    </event>
+    <event eventtype="4" ename="obj_crate">
       <action>
         <libid>1</libid>
         <id>201</id>
@@ -182,15 +187,15 @@ alarm[0] = 1;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_wall_150x50">
+    <event eventtype="4" ename="obj_Crate_TestAI">
       <action>
         <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
+        <id>605</id>
+        <kind>0</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
         <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
@@ -199,15 +204,10 @@ alarm[0] = 1;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///Replace bullet instance
-instance_change(obj_bullet_exp,0);
-alarm[0] = 1;
-</string>
+            <string>Without this, the bullet bounces off the crates in rm_test_AI, which can also be funny/useful</string>
           </argument>
         </arguments>
       </action>
-    </event>
-    <event eventtype="4" ename="obj_crate">
       <action>
         <libid>1</libid>
         <id>201</id>
