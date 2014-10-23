@@ -34,6 +34,7 @@ player_hurt = 0;
 // Player status variables
 player_health = 100;
 time_hurt = 15;
+bullet_count = 50;
 </string>
           </argument>
         </arguments>
@@ -56,7 +57,7 @@ time_hurt = 15;
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>MouseShootAlarm</script>
+            <script>scr_MouseShootAlarm_TestAI</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -260,7 +261,7 @@ time_hurt = 15;
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>MouseShoot</script>
+            <script>scr_MouseShoot_TestAI</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -336,6 +337,34 @@ time_hurt = 15;
       </action>
       <action>
         <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Bullets:</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>50</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>524</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -379,6 +408,54 @@ time_hurt = 15;
           <argument>
             <kind>0</kind>
             <string>30</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>524</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_color</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>13</kind>
+            <string>65535</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>613</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_variable</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>bullet_count</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>80</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>50</string>
           </argument>
         </arguments>
       </action>

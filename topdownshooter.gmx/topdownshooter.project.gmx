@@ -32,6 +32,8 @@
       <script>scripts\scr_CrateAttack.gml</script>
       <script>scripts\scr_PlayerStatus.gml</script>
       <script>scripts\scr_CameraShake_TestAI.gml</script>
+      <script>scripts\scr_MouseShoot_TestAI.gml</script>
+      <script>scripts\scr_MouseShootAlarm_TestAI.gml</script>
     </scripts>
   </scripts>
   <objects name="objects">
