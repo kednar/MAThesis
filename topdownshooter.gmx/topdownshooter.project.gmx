@@ -36,10 +36,18 @@
       <script>scripts\scr_MouseShootAlarm_TestAI.gml</script>
     </scripts>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font_YouLose80</font>
+    <font>fonts\font_YouLose20</font>
+    <font>fonts\font_YouWin60</font>
+    <font>fonts\font_YouWin20</font>
+    <font>fonts\Default15</font>
+  </fonts>
   <objects name="objects">
     <objects name="room_test_ai">
       <object>objects\obj_Crate_TestAI</object>
       <object>objects\obj_Player_TestAI</object>
+      <object>objects\obj_GameState_TestAI</object>
     </objects>
     <objects name="room_main">
       <object>objects\obj_crate</object>
