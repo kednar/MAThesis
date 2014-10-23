@@ -1,9 +1,9 @@
 if attacking == 1{
     //phy_bullet = true;
-    physics_apply_local_impulse(10, 0, 66, 0);
+    physics_apply_local_impulse(10, 0, enemy_speed, 0);
     //physics_apply_local_force(0,0,1000,0);
     counter += 1;
-    if counter == 60{
+    if counter == pause{
         attacking = 0;
         counter = 0;
         }

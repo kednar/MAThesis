@@ -30,6 +30,7 @@
     <script>scripts\CameraShake.gml</script>
     <scripts name="room_test_ai">
       <script>scripts\scr_CrateAttack.gml</script>
+      <script>scripts\scr_PlayerStatus.gml</script>
       <script>scripts\scr_CameraShake_TestAI.gml</script>
     </scripts>
   </scripts>

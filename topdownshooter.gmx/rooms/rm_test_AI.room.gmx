@@ -3,8 +3,8 @@
   <caption></caption>
   <width>800</width>
   <height>600</height>
-  <vsnap>50</vsnap>
-  <hsnap>50</hsnap>
+  <vsnap>10</vsnap>
+  <hsnap>10</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -79,6 +79,22 @@
     <instance objName="obj_Crate_TestAI" x="550" y="150" name="inst_6ADAFCDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Player_TestAI" x="150" y="150" name="inst_D60DB610" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Crate_TestAI" x="350" y="250" name="inst_57F7C03A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="300" y="350" name="inst_1359FE14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="450" y="300" name="inst_D1ECF40B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="450" y="350" name="inst_62641C9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="100" y="390" name="inst_2BC8D304" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="360" y="70" name="inst_8F500A19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="550" y="230" name="inst_69407185" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="480" y="410" name="inst_FB0F6EDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="280" y="450" name="inst_3297828A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="210" y="370" name="inst_6CCAD1FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="650" y="420" name="inst_1877083F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="520" y="530" name="inst_EC6F578D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="370" y="530" name="inst_A4DADC14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="650" y="530" name="inst_9C38E5B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="100" y="530" name="inst_5471078E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="650" y="220" name="inst_D564B5F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Crate_TestAI" x="430" y="180" name="inst_6CB0828C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background2" x="50" y="50" w="50" h="50" xo="0" yo="50" id="10000175" name="inst_F3BD70E7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
