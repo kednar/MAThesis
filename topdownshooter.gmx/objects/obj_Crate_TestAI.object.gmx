@@ -33,8 +33,8 @@ counter = 0;
 
 // ---------- variables to be tampered with
 anticipation = 15;  // frames to wait before attacking when player is detected
-pause = 30;         // frames to pause before attacking ago
-enemy_speed = 200
+pause = 20;         // frames to pause before attacking ago
+enemy_speed = 6000
 </string>
           </argument>
         </arguments>
@@ -201,11 +201,11 @@ alarm[0] = 4;
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>1</PhysicsObjectShape>
   <PhysicsObjectDensity>5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>50</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>1</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
   <PhysicsObjectLinearDamping>10</PhysicsObjectLinearDamping>
   <PhysicsObjectAngularDamping>5</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>100</PhysicsObjectFriction>
+  <PhysicsObjectFriction>1</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>-1</PhysicsObjectKinematic>
   <PhysicsShapePoints>
