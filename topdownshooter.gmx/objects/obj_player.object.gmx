@@ -25,9 +25,21 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///Initial values
+            <string>// Player status variables
+player_health = 100;
+time_hurt = 15;
+time_dodge = 120;
+bullet_count = 50;
+dodge_speed = 100;
+
+///Initial values
 camera_lerp = true;
 camera_shake = true;
+hurt_counter = 0;
+dodge_counter = time_dodge;
+player_hurt = 0;
+dodging = 0;
+
 </string>
           </argument>
         </arguments>

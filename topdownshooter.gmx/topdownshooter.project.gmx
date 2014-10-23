@@ -24,6 +24,7 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\PlayerMovement.gml</script>
+    <script>scripts\scr_PlayerDodge.gml</script>
     <script>scripts\MouseShoot.gml</script>
     <script>scripts\MouseShootAlarm.gml</script>
     <script>scripts\CameraControl.gml</script>
