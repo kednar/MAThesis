@@ -12,3 +12,4 @@ hurt_counter = 0;
 dodge_counter = time_dodge;
 player_hurt = 0;
 dodging = 0;
+global.enemy_movement = 1;

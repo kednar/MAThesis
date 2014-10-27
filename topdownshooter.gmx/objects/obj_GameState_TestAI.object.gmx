@@ -175,7 +175,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>WASD to control player#Left Click to shoot#SPACE to dodge##R to restart room#T for next room##C to spawn crate under cursor#E to spawn enemy under cursor#H for +10 Health#B for +10 Bullets</string>
+            <string>WASD to control player#Left Click to shoot#SPACE to dodge##R to restart room#T for next room##C to spawn crate under cursor#E to spawn enemy under cursor#H for +10 Health#B for +10 Bullets##M to toggle Enemy Idle Movement</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -690,6 +690,36 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="10" enumb="77">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if global.enemy_movement == 1{
+    global.enemy_movement = 0;
+    exit
+    }
+if global.enemy_movement == 0{
+    global.enemy_movement = 1;
+    exit
+    }
+</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="10" enumb="72">

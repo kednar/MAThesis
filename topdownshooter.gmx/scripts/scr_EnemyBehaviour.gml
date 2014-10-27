@@ -28,7 +28,7 @@ if attacking == 0{
         exit
         }
 // idle movement below
-    if moving == 1 {
+    if moving == 1 && global.enemy_movement = 1 {
         moving_counter += 1;
         physics_apply_local_force(0,0,moving_speed,0);
         if moving_counter >= moving_duration { // when moving is over...
@@ -39,7 +39,7 @@ if attacking == 0{
             }
         exit
         }
-    if moving == 0 {
+    if moving == 0 && global.enemy_movement = 1 {
         pause_counter += 1;
         if pause_counter >= moving_pause { // when pause is over, give new moving instructions
             phy_rotation = point_direction(x,irandom_range(spawnY1,spawnY2),irandom_range(spawnX1,spawnX2),y); // should give a random point to direct towards
