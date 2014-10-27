@@ -36,14 +36,13 @@ if attacking == 0{
             moving_pause = irandom_range(mp1,mp2); //  ... set new random pause duration
             moving = 0;
             moving_counter = 0;
-            randomize()
             }
         exit
         }
     if moving == 0 {
         pause_counter += 1;
         if pause_counter >= moving_pause { // when pause is over, give new moving instructions
-            phy_rotation = point_direction(x,y,irandom(800),irandom(600)); // should give a random point to direct towards
+            phy_rotation = point_direction(x,irandom_range(spawnY1,spawnY2),irandom_range(spawnX1,spawnX2),y); // should give a random point to direct towards
             moving_duration = irandom_range(md1,md2);
             moving_speed = irandom_range(ms1,ms2);
             moving = 1;
