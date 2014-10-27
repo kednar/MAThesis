@@ -187,7 +187,7 @@ alarm[0] = 1;
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_Crate_TestAI">
+    <event eventtype="4" ename="obj_FaceHugger">
       <action>
         <libid>1</libid>
         <id>605</id>

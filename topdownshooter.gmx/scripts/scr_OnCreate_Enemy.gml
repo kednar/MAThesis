@@ -2,6 +2,8 @@
 anticipation = 15;  // frames to wait before attacking when player is detected
 pause = 20;         // frames to pause after attacking
 attacking_speed = 5000  // attacking force (speed)
+enemy_health = 100
+enemy_health_regen = 0.3
 
 // ---------- randomly generated enemy idle movement
 

@@ -45,7 +45,7 @@
         <arguments>
           <argument>
             <kind>12</kind>
-            <font>Default15</font>
+            <font>font_15</font>
           </argument>
           <argument>
             <kind>4</kind>
@@ -151,7 +151,7 @@
         <arguments>
           <argument>
             <kind>12</kind>
-            <font>Default15</font>
+            <font>font_15</font>
           </argument>
           <argument>
             <kind>4</kind>
@@ -217,7 +217,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_Crate_TestAI</object>
+            <object>obj_FaceHugger</object>
           </argument>
           <argument>
             <kind>0</kind>

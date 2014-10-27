@@ -59,7 +59,7 @@ if (keyboard_check(vk_space)) && dodging == 0 {
 // loop for the dodge pause
 if dodging == 1 {
     dodge_counter += 1;
-    if dodge_counter == time_dodge {
+    if dodge_counter == dodge_pause {
         dodging = 0;
         }
     }

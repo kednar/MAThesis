@@ -45,11 +45,13 @@
     <font>fonts\font_YouLose20</font>
     <font>fonts\font_YouWin60</font>
     <font>fonts\font_YouWin20</font>
-    <font>fonts\Default15</font>
+    <font>fonts\font_15</font>
+    <font>fonts\font_8</font>
   </fonts>
   <objects name="objects">
     <objects name="room_test_ai">
-      <object>objects\obj_Crate_TestAI</object>
+      <object>objects\obj_Dead_FaceHugger</object>
+      <object>objects\obj_FaceHugger</object>
       <object>objects\obj_Player_TestAI</object>
       <object>objects\obj_GameState_TestAI</object>
     </objects>
