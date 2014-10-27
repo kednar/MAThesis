@@ -765,7 +765,7 @@ if global.enemy_movement == 0{
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>scr_SpawnCrate</script>
+            <script>scr_SpawnFaceHugger</script>
           </argument>
           <argument>
             <kind>0</kind>

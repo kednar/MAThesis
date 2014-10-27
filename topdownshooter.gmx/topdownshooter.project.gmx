@@ -37,7 +37,7 @@
       <script>scripts\scr_CameraShake_TestAI.gml</script>
       <script>scripts\scr_MouseShoot_TestAI.gml</script>
       <script>scripts\scr_MouseShootAlarm_TestAI.gml</script>
-      <script>scripts\scr_SpawnCrate.gml</script>
+      <script>scripts\scr_SpawnFaceHugger.gml</script>
     </scripts>
   </scripts>
   <fonts name="fonts">

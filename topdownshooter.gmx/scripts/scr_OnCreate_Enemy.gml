@@ -11,7 +11,7 @@ md1 = 30;   // minimum number of frames for one movement
 md2 = 90;   // maximum number of frames for one movement
 
 ms1 = 1000;  // minimum force (speed) to move enemy with
-ms2 = 3000;  // maximum force (speed) to move enemy with
+ms2 = 2000;  // maximum force (speed) to move enemy with
 
 mp1 = 30;   // minimum frames to pause between movements
 mp2 = 60;   // maximum frames to pause between movements
@@ -32,3 +32,4 @@ pause_counter = 0;
 moving_speed = 0;
 moving_duration = 0;
 moving_pause = 0;
+see_patrol = 0;
