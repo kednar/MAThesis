@@ -1,20 +1,22 @@
+// ---------- enemy status
+enemy_health = 100          // self explanatory
+enemy_health_regen = 0.3    // regenerating health per second
+
 // ---------- movement variables
-anticipation = 15;  // frames to wait before attacking when player is detected
-pause = 20;         // frames to pause after attacking
-attacking_speed = 5000  // attacking force (speed)
-enemy_health = 100
-enemy_health_regen = 0.3
+anticipation = 15;          // frames to wait before attacking when player is detected
+pause = 20;                 // frames to pause after attacking
+attacking_speed = 5000      // attacking force (speed)
 
 // ---------- randomly generated enemy idle movement
 
-md1 = 30;   // minimum number of frames for one movement
-md2 = 90;   // maximum number of frames for one movement
+md1 = 15;   // minimum number of frames for one movement
+md2 = 60;   // maximum number of frames for one movement
 
-ms1 = 1000;  // minimum force (speed) to move enemy with
+ms1 = 500;  // minimum force (speed) to move enemy with
 ms2 = 2000;  // maximum force (speed) to move enemy with
 
-mp1 = 30;   // minimum frames to pause between movements
-mp2 = 60;   // maximum frames to pause between movements
+mp1 = 45;   // minimum frames to pause between movements
+mp2 = 90;   // maximum frames to pause between movements
 
 spawnX1 = x - irandom_range(10,90); // these four variables will determine
 spawnX2 = x + irandom_range(10,90); // the four coordinates that are

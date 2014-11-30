@@ -16,6 +16,7 @@
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_blob_walk</sprite>
     <sprite>sprites\spr_blob_fire</sprite>
+    <sprite>sprites\spr_planet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -23,21 +24,35 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
+    <scripts name="room_Space">
+      <script>scripts\scr_PlayerMovement_Space.gml</script>
+      <script>scripts\scr_Player_Create_Space.gml</script>
+      <script>scripts\scr_Camera_Shake_Space.gml</script>
+      <script>scripts\scr_PlanetGravity.gml</script>
+    </scripts>
     <script>scripts\PlayerMovement.gml</script>
-    <script>scripts\scr_PlayerDodge.gml</script>
     <script>scripts\MouseShoot.gml</script>
     <script>scripts\MouseShootAlarm.gml</script>
     <script>scripts\CameraControl.gml</script>
     <script>scripts\CameraShake.gml</script>
     <scripts name="room_test_ai">
-      <script>scripts\scr_OnCreate_Enemy.gml</script>
-      <script>scripts\scr_OnCreatePlayer.gml</script>
-      <script>scripts\scr_EnemyBehaviour.gml</script>
-      <script>scripts\scr_PlayerStatus.gml</script>
+      <scripts name="Facehugger">
+        <script>scripts\scr_FacehuggerCreate.gml</script>
+        <script>scripts\scr_FacehuggerBehaviour.gml</script>
+        <script>scripts\scr_FaceHuggerSpawn.gml</script>
+      </scripts>
+      <scripts name="Player">
+        <script>scripts\scr_PlayerDodge.gml</script>
+        <script>scripts\scr_PlayerCreate.gml</script>
+        <script>scripts\scr_PlayerStatus.gml</script>
+      </scripts>
       <script>scripts\scr_CameraShake_TestAI.gml</script>
       <script>scripts\scr_MouseShoot_TestAI.gml</script>
       <script>scripts\scr_MouseShootAlarm_TestAI.gml</script>
-      <script>scripts\scr_SpawnFaceHugger.gml</script>
+      <scripts name="Railshot">
+        <script>scripts\scr_CreateRailshot.gml</script>
+        <script>scripts\scr_RailshotBehaviour.gml</script>
+      </scripts>
     </scripts>
   </scripts>
   <fonts name="fonts">
@@ -52,6 +67,7 @@
     <objects name="room_test_ai">
       <object>objects\obj_Dead_FaceHugger</object>
       <object>objects\obj_FaceHugger</object>
+      <object>objects\obj_Railshot</object>
       <object>objects\obj_Player_TestAI</object>
       <object>objects\obj_GameState_TestAI</object>
     </objects>
@@ -65,10 +81,16 @@
       <object>objects\obj_room_switch</object>
       <object>objects\effect_shake</object>
     </objects>
+    <objects name="room_ImInSpace">
+      <object>objects\obj_Player_Space</object>
+      <object>objects\obj_Planet</object>
+      <object>objects\obj_GameStateTestAI_Space</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>
     <room>rooms\rm_test_AI</room>
+    <room>rooms\rm_ImInSpace</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
