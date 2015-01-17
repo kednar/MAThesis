@@ -20,14 +20,13 @@
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
-  <shaders name="shaders"/>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall_32x32</object>
     <object>objects\obj_wall_150x50</object>
     <object>objects\obj_powerup</object>
     <object>objects\obj_grass</object>
+    <object>objects\obj_enemy_nofall</object>
     <object>objects\obj_enemy</object>
   </objects>
   <rooms name="rooms">
