@@ -14,12 +14,17 @@
     <sprite>sprites\spr_powerup</sprite>
     <sprite>sprites\spr_enemy_exp</sprite>
     <sprite>sprites\spr_wall_32x32</sprite>
+    <sprite>sprites\spr_portal</sprite>
+    <sprite>sprites\spr_checkpoint</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_death.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall_32x32</object>
@@ -27,8 +32,11 @@
     <object>objects\obj_grass</object>
     <object>objects\obj_enemy_nofall</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_portal</object>
+    <object>objects\obj_checkpoint</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_initialize</room>
     <room>rooms\rm_test</room>
   </rooms>
   <help>

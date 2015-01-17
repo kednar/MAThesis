@@ -38,6 +38,12 @@ jumpspeed_powerup= 10;
 jumpspeed = jumpspeed_normal;
 
 countdown = 0;
+
+if (global.checkpointR == room)
+    {
+    x = global.checkpointx;
+    y = global.checkpointy;
+    }
 </string>
           </argument>
         </arguments>
