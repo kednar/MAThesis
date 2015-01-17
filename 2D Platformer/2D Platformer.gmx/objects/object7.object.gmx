@@ -34,6 +34,7 @@ grav = 0.2;
 hsp = 0;
 vsp = 0;
 fearofheights = 0;
+
 </string>
           </argument>
         </arguments>
@@ -110,19 +111,18 @@ if (place_meeting(x,y,obj_player))
         if alive == 1
             {
             with (obj_player) vsp = -(jumpspeed/2);
-            sprite_index = spr_enemy_exp;
-            alarm[0] = 30;
-            alive = 0;
+            alive = 0
             }
-        image_xscale += 0.1;
-        image_yscale += 0.1;
+        instance_create(x,y,obj_enemy
+        image_xscale += 0.2
+        image_yscale += 0.2
+        alarm[0] = 30;
         }
     else
         {
             game_restart();
         }
     }
-
 </string>
           </argument>
         </arguments>
