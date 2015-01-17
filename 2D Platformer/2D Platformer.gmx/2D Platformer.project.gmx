@@ -8,14 +8,15 @@
   <sprites name="sprites">
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\spr_blob_walk</sprite>
-    <sprite>sprites\spr_blob</sprite>
+    <sprite>sprites\spr_player_powerup</sprite>
+    <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_grass</sprite>
     <sprite>sprites\spr_powerup</sprite>
     <sprite>sprites\spr_enemy_exp</sprite>
     <sprite>sprites\spr_wall_32x32</sprite>
     <sprite>sprites\spr_portal</sprite>
     <sprite>sprites\spr_checkpoint</sprite>
+    <sprite>sprites\spr_platform</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -34,6 +35,7 @@
     <object>objects\obj_enemy</object>
     <object>objects\obj_portal</object>
     <object>objects\obj_checkpoint</object>
+    <object>objects\obj_platform</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_initialize</room>

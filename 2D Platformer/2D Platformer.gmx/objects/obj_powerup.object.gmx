@@ -28,7 +28,7 @@
             <string>with (obj_player)
     {
     jumpspeed = jumpspeed_powerup;
-    sprite_index = spr_blob_walk;
+    sprite_index = spr_player_powerup;
     alarm[0] = 300;
     countdown = 300;
     }
