@@ -25,17 +25,19 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>/// Initialize Variables
-grav = 0.2;
+            <string>/// Initialize Values
+
 hsp = 0;
 vsp = 0;
-jumpspeed = 7;
+grav = 0.2;
 movespeed = 4;
 
 jumpspeed_normal = 7;
-jumpspeed_powerup = 10;
+jumpspeed_powerup= 10;
 
 jumpspeed = jumpspeed_normal;
+
+countdown = 0;
 </string>
           </argument>
         </arguments>
@@ -60,6 +62,7 @@ jumpspeed = jumpspeed_normal;
             <kind>1</kind>
             <string>jumpspeed = jumpspeed_normal;
 sprite_index = spr_blob;
+countdown = 0;
 </string>
           </argument>
         </arguments>
@@ -94,20 +97,12 @@ move = key_left + key_right;
 hsp = move * movespeed;
 if (vsp &lt; 10) vsp += grav;
 
-if (place_meeting(x, y+1,obj_wall_150x50) || place_meeting(x,y+1,obj_wall_32x32)) 
+if (place_meeting(x,y+1,obj_wall_32x32)) 
     {
     vsp = key_jump * -jumpspeed;
     }
 
 // Horizontal Collision
-if (place_meeting(x+hsp,y,obj_wall_150x50))
-    {
-    while (!place_meeting(x+sign(hsp),y,obj_wall_150x50))
-        {
-        x += sign(hsp);
-        }
-    hsp = 0;
-    }
 if (place_meeting(x+hsp,y,obj_wall_32x32))
     {
     while (!place_meeting(x+sign(hsp),y,obj_wall_32x32))
@@ -119,14 +114,6 @@ if (place_meeting(x+hsp,y,obj_wall_32x32))
 x += hsp;
 
 // Vertical Collision
-if (place_meeting(x,y+vsp,obj_wall_150x50))
-    {
-    while (!place_meeting(x,y+sign(vsp),obj_wall_150x50))
-        {
-        y += sign(vsp);
-        }
-    vsp = 0;
-    }
 if (place_meeting(x,y+vsp,obj_wall_32x32))
     {
     while (!place_meeting(x,y+sign(vsp),obj_wall_32x32))
@@ -136,6 +123,12 @@ if (place_meeting(x,y+vsp,obj_wall_32x32))
     vsp = 0;
     } 
 y += vsp;
+
+// Powerup Countdown Display
+if countdown &gt; 0
+    {
+     countdown -= 1;
+    }
 </string>
           </argument>
         </arguments>
@@ -185,6 +178,132 @@ y += vsp;
 </string>
           </argument>
         </arguments>
+      </action>
+    </event>
+    <event eventtype="8" enumb="64">
+      <action>
+        <libid>1</libid>
+        <id>612</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>-1</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_if_variable</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>countdown</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>2</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>422</id>
+        <kind>1</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>516</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_gradient_hor</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>75</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>countdown</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>100</string>
+          </argument>
+          <argument>
+            <kind>13</kind>
+            <string>16744448</string>
+          </argument>
+          <argument>
+            <kind>13</kind>
+            <string>10485760</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Power Jump!</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>14</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>75</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>424</id>
+        <kind>2</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
       </action>
     </event>
   </events>

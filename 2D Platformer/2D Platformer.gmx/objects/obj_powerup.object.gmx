@@ -30,6 +30,7 @@
     jumpspeed = jumpspeed_powerup;
     sprite_index = spr_blob_walk;
     alarm[0] = 300;
+    countdown = 300;
     }
 instance_destroy();
 </string>
