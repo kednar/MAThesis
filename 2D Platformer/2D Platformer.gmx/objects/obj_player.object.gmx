@@ -153,6 +153,20 @@ if (place_meeting(x,y+vsp,obj_wall_32x32))
     } 
 y += vsp;
 
+// Animate
+if (move != 0)
+    {
+    image_xscale = move;
+    }
+if (place_meeting(x,y+1,obj_wall_32x32))
+    {
+    if (move != 0) sprite_index = spr_player_run; else sprite_index = spr_player;
+    }
+else
+    {
+    if (vsp &lt; 0) sprite_index = spr_player_jump; else sprite_index = spr_player_fall;
+    }
+        
 // Powerup Countdown Display
 if countdown &gt; 0
     {
@@ -333,34 +347,6 @@ if countdown &gt; 0
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>514</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_draw_text</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>2</kind>
-            <string>x ", "y</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
       </action>
     </event>
   </events>
