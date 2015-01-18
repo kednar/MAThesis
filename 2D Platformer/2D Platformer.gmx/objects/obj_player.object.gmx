@@ -103,11 +103,12 @@ key_left = -keyboard_check(vk_left);
 key_jump = keyboard_check_pressed(vk_space);
 key_down = keyboard_check(vk_down);
 
-// React to inputs
+// Basic Movement
 move = key_left + key_right;
 hsp = move * movespeed;
 if (vsp &lt; 10) vsp += grav;
 
+// Jumping
 if (place_meeting(x,y+1,obj_wall_32x32)) 
     {
     jumps = jumpsmax;
@@ -117,6 +118,12 @@ if (key_jump) &amp;&amp; (jumps &gt; 0)
     {
     vsp = -jumpspeed;
     jumps -= 1;
+    }
+    
+// Wall Jump
+if (key_jump) &amp;&amp; (place_meeting(x+1,y,obj_wall_32x32) || place_meeting(x-1,y,obj_wall_32x32))
+    {
+    vsp = -jumpspeed;
     }
     
 // Horizontal Movement
