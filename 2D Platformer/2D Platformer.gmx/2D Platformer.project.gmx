@@ -17,6 +17,7 @@
     <sprite>sprites\spr_portal</sprite>
     <sprite>sprites\spr_checkpoint</sprite>
     <sprite>sprites\spr_platform</sprite>
+    <sprite>sprites\spr_platformV</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -36,6 +37,8 @@
     <object>objects\obj_portal</object>
     <object>objects\obj_checkpoint</object>
     <object>objects\obj_platform</object>
+    <object>objects\obj_platformH</object>
+    <object>objects\obj_platformV</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_initialize</room>
