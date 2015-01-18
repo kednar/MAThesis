@@ -38,7 +38,6 @@
     <object>objects\obj_checkpoint</object>
     <object>objects\obj_platform</object>
     <object>objects\obj_platformH</object>
-    <object>objects\obj_platformV</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_initialize</room>
