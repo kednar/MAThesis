@@ -10,37 +10,37 @@ If Active_Object_Counter > 2
 */
 
 
-if collision_circle(obj_player2.x,obj_player2.y,90,obj_pistol,false,true) && collision_circle(obj_player2.x,obj_player2.y,90,obj_key,false,true)
+if (collision_circle(obj_player2.x,obj_player2.y,90,obj_pistol,false,true)) && (collision_circle(obj_player2.x,obj_player2.y,90,obj_key,false,true))
     {
     if distance_to_object(obj_pistol) >= distance_to_object(obj_key)
         {
-        global.p2_dialog1 = "Active Object is: Key"
+        global.dialog2_1 = "Active Object is: Key";
         }
     else
         {
-        global.p2_dialog1 = "Active Object is: Pistol"
-        global.p2_collision_counter = 2
+        global.dialog2_1 = "Active Object is: Pistol";
+        global.collision_counter_2 = 2;
         }
     }
 else
     {
     if collision_circle(obj_player2.x,obj_player2.y,90,obj_key,false,true)
         {
-        global.p2_dialog1 = "Active Object is: Key"
-        global.p2_collision_counter = 1
+        global.dialog2_1 = "Active Object is: Key";
+        global.collision_counter_2 = 1;
         }
     else if collision_circle(obj_player2.x,obj_player2.y,90,obj_pistol,false,true)
         {
-        global.p2_dialog1 = "Active Object is: Pistol"
-        global.p2_collision_counter = 1
+        global.dialog2_1 = "Active Object is: Pistol";
+        global.collision_counter_2 = 1;
         }
     else
         {
-        global.p2_dialog1 = "Active Object is: NONE"
+        global.dialog2_1 = "Active Object is: NONE";
         }
     }
 
-global.p2_dialog2 = "Active Objects: " + string(global.p2_collision_counter)
+global.dialog2_2 = "Active Objects: " + string(global.collision_counter_2);
 
 
 /*

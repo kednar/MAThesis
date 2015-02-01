@@ -13,12 +13,6 @@
     <sprite>sprites\spr_pistol</sprite>
     <sprite>sprites\spr_collision</sprite>
     <sprite>sprites\Ducktective_pixel</sprite>
-    <sprites name="kiwi">
-      <sprite>sprites\kiwi_idle_L</sprite>
-      <sprite>sprites\kiwi_idle_R</sprite>
-      <sprite>sprites\kiwi_walk_R</sprite>
-      <sprite>sprites\kiwi_walk_L</sprite>
-    </sprites>
     <sprites name="duck">
       <sprite>sprites\duck_down</sprite>
       <sprite>sprites\duck_idle_R</sprite>
@@ -33,55 +27,42 @@
       <sprite>sprites\duck_talk_gui_R</sprite>
       <sprite>sprites\duck_head_gui_R</sprite>
     </sprites>
-    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\kiwi_idle_L</sprite>
+    <sprite>sprites\kiwi_idle_R</sprite>
+    <sprite>sprites\kiwi_walk_L</sprite>
+    <sprite>sprites\kiwi_walk_R</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\tile_A</background>
-    <background>background\tile_B</background>
-    <background>background\tile_C</background>
-    <background>background\tile_D</background>
-    <background>background\background4</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <scripts name="GUI">
-      <script>scripts\scr_p1_dialog.gml</script>
-      <script>scripts\scr_p2_dialog.gml</script>
-      <scripts name="typewriter">
-        <script>scripts\scr_typewriter_create.gml</script>
-        <script>scripts\scr_typewriter_step.gml</script>
-        <script>scripts\scr_typewriter_draw.gml</script>
-      </scripts>
-    </scripts>
     <scripts name="Player 2">
       <script>scripts\scr_p2_control.gml</script>
       <script>scripts\scr_p2_distance.gml</script>
+      <script>scripts\scr_p2_dialog.gml</script>
       <script>scripts\scr_p2_animation.gml</script>
       <script>scripts\scr_p2_speak.gml</script>
     </scripts>
     <scripts name="Player 1">
       <script>scripts\scr_p1_control.gml</script>
+      <script>scripts\scr_p1_dialog.gml</script>
       <script>scripts\scr_p1_distance.gml</script>
       <script>scripts\scr_p1_animation.gml</script>
       <script>scripts\scr_depth_control.gml</script>
     </scripts>
     <script>scripts\scr_HELP.gml</script>
+    <script>scripts\scr_debug_info.gml</script>
+    <script>scripts\scr_dialogue_display.gml</script>
     <script>scripts\scr_dialogue_timer.gml</script>
     <script>scripts\scr_global_variables.gml</script>
   </scripts>
   <objects name="objects">
+    <object>objects\obj_wall</object>
     <object>objects\obj_player1</object>
     <object>objects\obj_player2</object>
     <object>objects\obj_table</object>
     <object>objects\obj_key</object>
     <object>objects\obj_pistol</object>
-<<<<<<< HEAD
     <object>objects\obj_GUI</object>
-=======
-    <object>objects\obj_typewriter</object>
-    <object>objects\obj_GUI</object>
-    <object>objects\wall_collider</object>
->>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_room</room>

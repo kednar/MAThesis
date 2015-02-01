@@ -8,6 +8,30 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
+    <event eventtype="0" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>global.collision_counter_1 = 0;
+global.collision_counter_2 = 0;
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="3" enumb="0">
       <action>
         <libid>1</libid>
@@ -196,52 +220,28 @@
         </arguments>
       </action>
     </event>
-<<<<<<< HEAD
     <event eventtype="4" ename="obj_wall">
       <action>
         <libid>1</libid>
         <id>101</id>
-=======
-    <event eventtype="5" enumb="13">
-      <action>
-        <libid>1</libid>
-        <id>201</id>
->>>>>>> origin/master
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-<<<<<<< HEAD
         <functionname>action_move</functionname>
-=======
-        <functionname>action_create_object</functionname>
->>>>>>> origin/master
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-<<<<<<< HEAD
             <kind>1</kind>
             <string>000010000</string>
           </argument>
           <argument>
             <kind>0</kind>
             <string>0</string>
-=======
-            <kind>10</kind>
-            <object>obj_typewriter</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>300</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>600</string>
->>>>>>> origin/master
           </argument>
         </arguments>
       </action>

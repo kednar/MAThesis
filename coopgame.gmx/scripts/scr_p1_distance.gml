@@ -4,44 +4,43 @@ Desired Flow:
 
 Every Step
 When colliding with object
-If Active_Object_Counter >= 2
-Calculate nearest object
-Send object ID to dialogue sorter
+If Active_Object_Counter > 2
+    
 
 */
 
 
-if collision_circle(obj_player1.x,obj_player1.y,90,obj_pistol,false,true) && collision_circle(obj_player1.x,obj_player1.y,90,obj_key,false,true)
+if (collision_circle(obj_player1.x,obj_player1.y,90,obj_pistol,false,true)) && (collision_circle(obj_player1.x,obj_player1.y,90,obj_key,false,true))
     {
     if distance_to_object(obj_pistol) >= distance_to_object(obj_key)
         {
-        global.p1_dialog1 = "Active Object is: Key"
+        global.dialog1_1 = "Active Object is: Key";
         }
     else
         {
-        global.p1_dialog1 = "Active Object is: Pistol"
-        global.p1_collision_counter = 2
+        global.dialog1_1 = "Active Object is: Pistol";
+        global.collision_counter_1 = 2;
         }
     }
 else
     {
     if collision_circle(obj_player1.x,obj_player1.y,90,obj_key,false,true)
         {
-        global.p1_dialog1 = "Active Object is: Key"
-        global.p1_collision_counter = 1
+        global.dialog1_1 = "Active Object is: Key";
+        global.collision_counter_1 = 1;
         }
     else if collision_circle(obj_player1.x,obj_player1.y,90,obj_pistol,false,true)
         {
-        global.p1_dialog1 = "Active Object is: Pistol"
-        global.p1_collision_counter = 1
+        global.dialog1_1 = "Active Object is: Pistol";
+        global.collision_counter_1 = 1;
         }
     else
         {
-        global.p1_dialog1 = "Active Object is: NONE"
+        global.dialog1_1 = "Active Object is: NONE";
         }
     }
 
-global.p1_dialog2 = "Active Objects: " + string(global.p1_collision_counter)
+global.dialog1_2 = "Active Objects: " + string(global.collision_counter_1);
 
 
 /*
